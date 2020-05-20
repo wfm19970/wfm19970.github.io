@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: wfm19970@gmail.com
 description: "关于程序与设计、黑客与画家 | 吴小民，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @wfm吴小民 的个人博客，与你一起发现更大的世界。"
 keyword: "吴小民,  博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "#"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     wfmpro
-zhihu_username:     wfmpro
-github_username:    wfmpro
-twitter_username:   wfmpro
+weibo_username:     3636744244
+zhihu_username:     yue-zhi-hen-84
+github_username:    wfm19970
+twitter_username:   wfm19970
 #facebook_username:  wfmpro
 #linkedin_username:  firstname-lastname-idxxxx
 
